@@ -6,4 +6,4 @@ const filmografia = () => {
   )
 }
 
-export default filmografia
+export default filmografia;

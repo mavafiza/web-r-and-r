@@ -6,4 +6,4 @@ const intro = () => {
   )
 }
 
-export default intro
+export default intro;
